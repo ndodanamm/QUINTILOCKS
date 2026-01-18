@@ -1,0 +1,7 @@
+{
+  "name": "Quintilocks - Dreadlock Excellence",
+  "description": "Premium dreadlock haircare specialist featuring an AI-powered loctician for personalized maintenance advice and virtual consultations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
